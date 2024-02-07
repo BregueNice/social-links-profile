@@ -1,0 +1,17 @@
+a{
+    background-color: hsl(0, 0%, 20%);
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+    padding: 10px 70px;
+    border-radius: 5px;
+    width: 100px;
+    text-align: center;
+    text-wrap: nowrap;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+a:hover{
+    background-color:  hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}

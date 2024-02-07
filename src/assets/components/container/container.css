@@ -1,0 +1,46 @@
+.container{
+    width: 300px;
+    height: auto;
+    background-color:hsl(0, 0%, 12%);
+    border-radius: 15px;
+    color: white;
+    padding: 30px 20px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+span{
+    color: hsl(75, 94%, 57%);
+    font-weight: 600;
+    font-size: 14px;
+    padding-bottom: 15px;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p{
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.692);
+    font-weight: 400;
+}
+
+.botoes{
+    display: flex;
+    gap: 10px;
+}
+
+.foto{
+    background-image: url('../../images/vini.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin-bottom: 10px;
+}
