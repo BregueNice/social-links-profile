@@ -15,7 +15,6 @@ span{
     color: hsl(75, 94%, 57%);
     font-weight: 600;
     font-size: 14px;
-    padding-bottom: 15px;
 }
 
 div{
@@ -28,6 +27,7 @@ p{
     font-size: 14px;
     color: rgba(255, 255, 255, 0.692);
     font-weight: 400;
+    padding: 10px 0px;
 }
 
 .botoes{
@@ -42,5 +42,5 @@ p{
     width: 80px;
     height: 80px;
     border-radius: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
